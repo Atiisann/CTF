@@ -6,8 +6,7 @@
 
 ## solution  
 
-`"cd /problems/reversing-warmup-1_2_a237211c4be8902c67102f827027e633"`ディレクトリを移動して、　
-`"ls"`でディレクトリやファイルの情報を表示する。「run」があるからそのファイルを`"/problems/reversing-warmup-1_2_a237211c4be8902c67102f827027e633\run"`で実行する
+`"cd/problems/reversing-warmup-1_2_a237211c4be8902c67102f827027e633"`で、ディレクトリを移動して`"ls"`でディレクトリやファイルの情報を表示する。「run」があるからそのファイルを`"/problems/reversing-warmup-1_2_a237211c4be8902c67102f827027e633\run"`で実行する　　
 
 ## Flag
 
