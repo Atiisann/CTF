@@ -10,5 +10,5 @@
 
 ## Flag
 
-`picoCTF{welc0m3_t0_r3VeRs1nG}`s
+`picoCTF{welc0m3_t0_r3VeRs1nG}`
 
